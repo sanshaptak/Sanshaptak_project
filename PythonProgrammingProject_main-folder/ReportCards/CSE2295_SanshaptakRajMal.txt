@@ -1,0 +1,14 @@
+Name of the student : Sanshaptak Raj Mal 
+Class Roll of the student : 95 
+Stream of the student : CSE 
+Your Student ID is : CSE2295
+
+Marks obtained in Math is : 100 
+Marks obtained in Python is : 95 
+Marks obtained in Physics is : 74 
+Marks obtained in Chemistry is : 100 
+Marks obtained in Biology is : 84 
+Marks obtained in English is : 92 
+
+You have got 545 in total with 90%
+Outstanding Performance... You have passed the exam with grade A.
